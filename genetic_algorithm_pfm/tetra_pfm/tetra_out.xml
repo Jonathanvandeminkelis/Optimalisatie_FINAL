@@ -1,27 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Solution Model="SolutionService">
-  <Alternative Name="A1" Value="5.0715873377440490e-01" />
-  <Alternative Name="A2" Value="3.0552572859150430e+01" />
-  <Alternative Name="A3" Value="8.4599147561964585e+01" />
-  <Alternative Name="A4" Value="6.6286444456095495e+01" />
-  <Alternative Name="A5" Value="8.5315574783440056e+01" />
-  <Alternative Name="A6" Value="2.9608584682843937e+01" />
-  <Alternative Name="A7" Value="9.3126976524851102e+01" />
-  <Alternative Name="A8" Value="0.0000000000000000e+00" />
-  <Alternative Name="A9" Value="9.3126976701703711e+01" />
-  <Alternative Name="A10" Value="6.8068357626600530e+01" />
-  <Alternative Name="A11" Value="9.1488370539401714e+01" />
-  <Alternative Name="A12" Value="9.5173940538347594e+01" />
-  <Alternative Name="A13" Value="9.5173940538347594e+01" />
-  <Alternative Name="A14" Value="1.0000000000000000e+02" />
-  <Alternative Name="A15" Value="9.5173940538347594e+01" />
-  <Alternative Name="A16" Value="9.7873753687710078e+01" />
-  <Alternative Name="A17" Value="9.5173940538347594e+01" />
-  <Alternative Name="A18" Value="9.5173940538347594e+01" />
-  <Alternative Name="A19" Value="9.5173940538347594e+01" />
-  <Alternative Name="A20" Value="9.5173940538347594e+01" />
-  <Alternative Name="A21" Value="9.5173940538347594e+01" />
-  <Alternative Name="A22" Value="9.6594842366553891e+01" />
-  <Alternative Name="A23" Value="9.5173940538347594e+01" />
-  <Alternative Name="A24" Value="9.6594842366553891e+01" />
-</Solution>
+<Error>
+  <Type>ParseError</Type>
+  <Message>The model data could not be parsed; the data is invalid or could not be imported.</Message>
+</Error>
